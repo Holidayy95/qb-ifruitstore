@@ -1,4 +1,5 @@
 Config = {}
+Config.MinimumifruitRobberyPolice = 2
 
 Config.Locations = {
     ["main"] = {
